@@ -1,0 +1,11 @@
+<html>
+	<head> 
+		<title>Raquel: The IT Recruiter</title>
+	</head>
+
+	<body>
+		<h1>Raquel: The IT Recruiter</h1>
+		<p>I can make your team grow!</p>
+	</body>
+
+</html>

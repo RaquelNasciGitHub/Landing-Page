@@ -1,0 +1,19 @@
+img {
+    width: 100px;
+    height: 400px;
+}
+
+#titulo-raquel {
+    color: green;
+} 
+
+h2 {
+    color: blue;
+}
+
+.primeira-class {
+    background-color: pink;
+    color: blue;
+    width: 300px;
+    opacity: 0.6;
+} 
